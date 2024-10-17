@@ -6,3 +6,10 @@ PolarDB-IMCI: A Cloud-Native HTAP Database System at Alibaba 杨世明
 9.24
 Anti-Caching: A New Approach to Database ManagementSystem Architecture 李文昊
 DBStorm: Generating Various Effective Workloads for Testing Isolation Levels 张朝阳
+
+10.8
+Functionality-Aware Database  Tuning via Multi-Task Learning 洪钊彦
+LARGE LANGUAGE MODELS TO ENHANCE BAYESIAN OPTIMIZATION 韩振涛
+
+10.15
+Query Rewriting via Large Language Models 王乙霖
