@@ -17,3 +17,7 @@ Query Rewriting via Large Language Models 王乙霖
 10.22
 Knock Out 2PC with Practicality Intact: a High-performance and General Distributed Transaction Protocol	赵泓尧
 A Survey on Large Language Model based Autonomous Agents 施文航
+
+10.29
+Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing  via Cross-DBMS SQL Transfer 武伊雪
+Mallet: SQL Dialect Translation with LLM Rule Generation 武伊雪
