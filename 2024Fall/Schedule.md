@@ -21,3 +21,7 @@ A Survey on Large Language Model based Autonomous Agents 施文航
 10.29
 Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing  via Cross-DBMS SQL Transfer 武伊雪
 Mallet: SQL Dialect Translation with LLM Rule Generation 武伊雪
+
+11.7
+KnobCF: Uncertainty-aware Knob Tuning 陈甜甜
+GaussML: An End-to-End In-Database Machine Learning System 陶虹霖
