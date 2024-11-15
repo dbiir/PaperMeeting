@@ -25,3 +25,7 @@ Mallet: SQL Dialect Translation with LLM Rule Generation 武伊雪
 11.7
 KnobCF: Uncertainty-aware Knob Tuning 陈甜甜
 GaussML: An End-to-End In-Database Machine Learning System 陶虹霖
+
+11.14
+BOSS : An Architecture for Database Kernel Composition 史心悦
+Fault-tolerant and transactional stateful  serverless workflows : 庄琪钰 
