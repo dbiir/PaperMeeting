@@ -29,3 +29,7 @@ GaussML: An End-to-End In-Database Machine Learning System 陶虹霖
 11.14
 BOSS : An Architecture for Database Kernel Composition 史心悦
 Fault-tolerant and transactional stateful  serverless workflows : 庄琪钰 
+
+11.21
+Tao: Improving Resource Utilization while Guaranteeing SLO in Multi-tenant  丁正浩
+VeriTxn: Verifiable Transactions for Cloud-Native Databases with Storage Disaggregation 刘增豪 
