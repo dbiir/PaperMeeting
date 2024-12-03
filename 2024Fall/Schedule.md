@@ -33,3 +33,6 @@ Fault-tolerant and transactional stateful  serverless workflows : 庄琪钰
 11.21
 Tao: Improving Resource Utilization while Guaranteeing SLO in Multi-tenant  丁正浩
 VeriTxn: Verifiable Transactions for Cloud-Native Databases with Storage Disaggregation 刘增豪 
+
+11.28
+CausalMesh: A Causal Cache for Stateful Serverless Computing 庄琪钰
