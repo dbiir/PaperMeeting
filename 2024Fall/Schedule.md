@@ -36,3 +36,6 @@ VeriTxn: Verifiable Transactions for Cloud-Native Databases with Storage Disaggr
 
 11.28
 CausalMesh: A Causal Cache for Stateful Serverless Computing 庄琪钰
+
+12.5
+SAM: Database Generation from Query Workloads with Supervised Autoregressive Models 孙羿鹏
