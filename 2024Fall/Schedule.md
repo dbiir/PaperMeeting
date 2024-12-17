@@ -39,3 +39,6 @@ CausalMesh: A Causal Cache for Stateful Serverless Computing 庄琪钰
 
 12.5
 SAM: Database Generation from Query Workloads with Supervised Autoregressive Models 孙羿鹏
+
+12.12
+Data generation using declarative constraints 张朝阳
