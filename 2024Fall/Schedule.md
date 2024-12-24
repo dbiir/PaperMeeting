@@ -42,3 +42,6 @@ SAM: Database Generation from Query Workloads with Supervised Autoregressive Mod
 
 12.12
 Data generation using declarative constraints 张朝阳
+
+12.19
+DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving 史心悦
