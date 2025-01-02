@@ -45,3 +45,7 @@ Data generation using declarative constraints 张朝阳
 
 12.19
 DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving 史心悦
+
+12.26
+HyBench: A New Benchmark for HTAP Databases 杨世明
+
